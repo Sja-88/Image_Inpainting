@@ -37,7 +37,7 @@ Following simulation results are from my master's project "Research on An Exempl
 
 ### Inpainting procedure:
 <p align="center">
-<img width="481" alt="Screen Shot 2024-04-25 at 8 02 44 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/c7845dc5-0f62-4b74-99f1-8d518822a00f">
+<img width="499" alt="Screen Shot 2024-04-25 at 8 20 14 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/31039c5e-0eef-483d-b424-62fe3349fee0">
 </p>
 
 
