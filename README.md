@@ -12,3 +12,6 @@ Z. Xu and J. Sun, "Image Inpainting by Patch Propagation Using Patch Sparsity," 
 
 Meur, Olivier Le, Josselin Gautier and Christine Guillemot. “Examplar-based inpainting based on local geometry.” 2011 18th IEEE International Conference on Image Processing (2011): 3401-3404.
 
+# Simulation Examples
+
+## <img width="481" alt="Screen Shot 2024-04-25 at 8 02 33 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/2565ef72-7d96-4ffa-90f1-4250dcf00ccb">
