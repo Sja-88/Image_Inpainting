@@ -14,4 +14,5 @@ Meur, Olivier Le, Josselin Gautier and Christine Guillemot. “Examplar-based in
 
 # Simulation Examples
 
-## <img width="481" alt="Screen Shot 2024-04-25 at 8 02 33 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/2565ef72-7d96-4ffa-90f1-4250dcf00ccb">
+## Texture inpainting:
+<img width="481" alt="Screen Shot 2024-04-25 at 8 02 33 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/2565ef72-7d96-4ffa-90f1-4250dcf00ccb">
