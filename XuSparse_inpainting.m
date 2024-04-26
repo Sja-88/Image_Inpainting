@@ -1,6 +1,6 @@
 % XuSparse_inpainting.m
 % 
-% The MATLAB implementation of inpainting algorithm by Xu (2010)
+% The MATLAB implementation of inpainting algorithm by Xu et al. (2010)
 %
 % Inputs: 
 %   - origImg        original image or corrupted image
