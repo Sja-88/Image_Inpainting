@@ -10,3 +10,5 @@ A. Criminisi, P. Perez and K. Toyama, "Object removal by exemplar-based inpainti
 
 Z. Xu and J. Sun, "Image Inpainting by Patch Propagation Using Patch Sparsity," in IEEE Transactions on Image Processing, vol. 19, no. 5, pp. 1153-1165, May 2010, doi: 10.1109/TIP.2010.2042098. 
 
+Meur, Olivier Le, Josselin Gautier and Christine Guillemot. “Examplar-based inpainting based on local geometry.” 2011 18th IEEE International Conference on Image Processing (2011): 3401-3404.
+
