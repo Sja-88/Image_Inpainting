@@ -16,7 +16,7 @@ D. Martin, C. Fowlkes, D. Tal and J. Malik, "A database of human segmented natur
 
 # Simulation Examples
 Following simulation results are from my master's project "Research on An Exemplar-based Image Inpainting Algorithm".
-Part of the images are from https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/.
+Images used can be download from https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/.
 
 ## Image inpainting:
 <p align="center">
