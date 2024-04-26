@@ -1,8 +1,8 @@
 # Image Inpainting
 Matlab codes for some exemplar-based image inpainting/object removal algorithms. Including a variant exemplar-based and enhanced patch priority image inpainting algorithm developed during my master's study (Fall 2019).
 
-The code for Criminisi's algorithm are from: https://github.com/ikuwow/inpainting_criminisi2004. 
-Other codes are developed based on it.
+Part of the code for Criminisi's algorithm is developed by Sooraj Bhat and from: https://github.com/ikuwow/inpainting_criminisi2004. 
+All other codes are developed based on this repository.
 
 # Reference
 
@@ -12,8 +12,11 @@ Z. Xu and J. Sun, "Image Inpainting by Patch Propagation Using Patch Sparsity," 
 
 Meur, Olivier Le, Josselin Gautier and Christine Guillemot. “Examplar-based inpainting based on local geometry.” 2011 18th IEEE International Conference on Image Processing (2011): 3401-3404.
 
+D. Martin, C. Fowlkes, D. Tal and J. Malik, "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics," Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001, Vancouver, BC, Canada, 2001, pp. 416-423 vol.2, doi: 10.1109/ICCV.2001.937655.
+
 # Simulation Examples
 Following simulation results are from my master's project "Research on An Exemplar-based Image Inpainting Algorithm".
+Part of the images are from https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/.
 
 ## Image inpainting:
 <p align="center">
