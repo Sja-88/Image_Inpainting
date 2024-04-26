@@ -5,13 +5,7 @@ The code for Criminisi's algorithm are from: https://github.com/ikuwow/inpaintin
 Other codes are developed based on it.
 
 # Reference
-@ARTICLE{5404308,
-  author={Xu, Zongben and Sun, Jian},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Image Inpainting by Patch Propagation Using Patch Sparsity}, 
-  year={2010},
-  volume={19},
-  number={5},
-  pages={1153-1165},
-  keywords={TV;Statistics;Sun;Computer vision;Image processing;Application software;Image restoration;Image coding;Pixel;Image inpainting;patch propagation;patch sparsity;sparse representation;texture synthesis},
-  doi={10.1109/TIP.2010.2042098}}
+
+Z. Xu and J. Sun, "Image Inpainting by Patch Propagation Using Patch Sparsity," in IEEE Transactions on Image Processing, vol. 19, no. 5, pp. 1153-1165, May 2010, doi: 10.1109/TIP.2010.2042098. keywords: {TV;Statistics;Sun;Computer vision;Image processing;Application software;Image restoration;Image coding;Pixel;Image inpainting;patch propagation;patch sparsity;sparse representation;texture synthesis},
+
+
