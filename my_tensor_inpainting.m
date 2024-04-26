@@ -13,10 +13,10 @@
 %   - D              MxN matrix of data term values accumulated over all iterations.
 %   - fillMovie      A Matlab movie struct depicting the fill region over time. 
 %
-% Example:
-%   [i1,c,d,mov] = inpaint();
-%   plotall;           % quick and dirty plotting script
-%   close; movie(mov); % grab some popcorn 
+% 
+%   
+%   
+%   
 %
 function [inpaintedImg,C,D,fillMovie] = my_tensor_inpainting(origImg,mask,psz)
 
