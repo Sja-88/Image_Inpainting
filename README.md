@@ -1,8 +1,8 @@
 # Image Inpainting
 Matlab codes for some exemplar-based image inpainting/object removal algorithms. Including a variant exemplar-based and enhanced patch priority image inpainting algorithm developed during my master's study (Fall 2019).
 
-Part of the code for Criminisi's algorithm is developed by Sooraj Bhat and from: https://github.com/ikuwow/inpainting_criminisi2004. 
-All other codes are developed based on this repository.
+Part of the code for Criminisi's algorithm is developed by Sooraj Bhat, and the version in this repository is from: https://github.com/ikuwow/inpainting_criminisi2004. 
+All other codes are developed based on it.
 
 # Reference
 
