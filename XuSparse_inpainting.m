@@ -18,7 +18,6 @@
 %   - fillMovie      A Matlab movie struct depicting the fill region over time. 
 %
 % 
-% Author @Sijia
 %   
 %   
 %
