@@ -1,6 +1,6 @@
 % the_tensor_inpainting.m
 % 
-% 
+% The MATLAB implementation of inpainting algorithm by Meur et al. (2011)
 %
 % Inputs: 
 %   - origImg        original image or corrupted image
