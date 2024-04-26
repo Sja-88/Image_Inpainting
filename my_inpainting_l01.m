@@ -1,7 +1,7 @@
 % my_inpainting_l01.m
 % 
 % 
-% The MATLAB implementation of a variant exemplar-based and patch sparsity enhanced image inpainting algorithm.
+% The MATLAB implementation of a variant exemplar-based and enhanced patch priority image inpainting algorithm.
 %
 % Inputs: 
 %   - origImg        original image or corrupted image
