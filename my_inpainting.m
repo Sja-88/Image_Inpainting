@@ -1,7 +1,7 @@
 % my_inpainting2.m
 % 
 % 
-% The MATLAB implementation of inpainting algorithm by Sijia (2020)
+% The MATLAB implementation of a variant exemplar-based and patch sparsity enhanced image inpainting algorithm.
 %
 % Inputs: 
 %   - origImg        original image or corrupted image
@@ -19,7 +19,7 @@
 %   - fillMovie      A Matlab movie struct depicting the fill region over time. 
 %
 % 
-%   Author @Sijia
+%   
 %   
 %   
 %
