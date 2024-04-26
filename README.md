@@ -16,3 +16,18 @@ Meur, Olivier Le, Josselin Gautier and Christine Guillemot. “Examplar-based in
 
 ## Texture inpainting:
 <img width="481" alt="Screen Shot 2024-04-25 at 8 02 33 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/2565ef72-7d96-4ffa-90f1-4250dcf00ccb">
+
+### Different data term in the patch priority function:
+<img width="322" alt="Screen Shot 2024-04-25 at 8 02 22 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/4eac6f46-a434-4464-9cf6-87a771735aa9">
+
+### Procedure:
+<img width="481" alt="Screen Shot 2024-04-25 at 8 02 44 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/c7845dc5-0f62-4b74-99f1-8d518822a00f">
+
+## Picture inpainting:
+<img width="499" alt="Screen Shot 2024-04-25 at 8 03 06 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/e562dbdc-ec6c-4158-9d37-bef7d0e206ba">
+
+## Object removal:
+<img width="499" alt="Screen Shot 2024-04-25 at 8 03 23 PM" src="https://github.com/Sja-88/Image_Inpainting/assets/119718072/cc47efef-f120-438c-9dcd-7b9b1b9eae96">
+
+
+
