@@ -16,13 +16,9 @@
 %   - inpaintedImg   The inpainted image; an MxNx3 matrix of doubles. 
 %   - C              MxN matrix of confidence values accumulated over all iterations.
 %   - D              MxN matrix of data term values accumulated over all iterations.
-%   - fillMovie      A Matlab movie struct depicting the fill region over time. 
+%   - fillMovie      A Matlab movie struct depicting the fill region over time.   
 %
-% 
-%   
-%   
-%   
-%
+
 function [inpaintedImg,C,D,fillMovie] = my_inpainting(origImg,mask,psz,npsz,N,errortolerance,belta)
 
 %% error check
