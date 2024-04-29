@@ -15,7 +15,7 @@ Meur, Olivier Le, Josselin Gautier and Christine Guillemot. “Examplar-based in
 D. Martin, C. Fowlkes, D. Tal and J. Malik, "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics," Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001, Vancouver, BC, Canada, 2001, pp. 416-423 vol.2, doi: 10.1109/ICCV.2001.937655.
 
 # Simulation Examples
-Following simulation results are from my master's project "Research on An Exemplar-based Image Inpainting Algorithm".
+Following simulation results are from my master's project "Research on an Exemplar-based Image Inpainting Algorithm".
 Images used can be download from https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/.
 
 ## Image inpainting:
